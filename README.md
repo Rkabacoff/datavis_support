@@ -1,2 +1,2 @@
-# datavis_support
-Code files for the book "Modern Data Visualization in R"
+# Code files for the book "Modern Data Visualization in R"
+Comming soon ...
