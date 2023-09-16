@@ -1,3 +1,4 @@
+<img src="rcode.png" width="35%" align="right" hspace="10"/>
 **Modern Data Visualization in R**
 
 This is the support website for the book *Modern Data Visualizaiton in R*.
