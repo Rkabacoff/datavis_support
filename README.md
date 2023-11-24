@@ -2,10 +2,9 @@
 
 **Modern Data Visualization in R**
 
-This is the support website for the book *Modern Data Visualizaiton in R*.
+This is the support website for the book *Modern Data Visualization in R*. It contains the R code and (nonpackage) datasets used in the book.
 
 You can access an online version [here](http://rkabacoff.github.io/datavis).
 
-The code folder in this repository will house all code used in the book (coming soon!).
 
 -Rob Kabacoff
